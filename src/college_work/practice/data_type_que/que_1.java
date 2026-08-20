@@ -21,6 +21,11 @@ public class que_1 {
         sc.nextLine();
         System.out.print("Enter your name first letter here:");
         f_letter = sc.nextLine().charAt(0);
+
+        System.out.println("Name:" + name);
+        System.out.println("Age:" + age + " years");
+        System.out.println("Height:" + height + " cm");
+        System.out.println("First Letter:" + f_letter);
         sc.close();
     }
 }
