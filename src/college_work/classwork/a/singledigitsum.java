@@ -1,4 +1,4 @@
-package college_work.classwork;
+package college_work.classwork.a;
 
 import java.util.Scanner;
 
